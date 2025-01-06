@@ -30,7 +30,7 @@ Check out the deployed **SimpleStorage** contract and its transactions on Sepoli
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/simple-storage-dapp.git
+   git clone https://github.com/SoraDimichi/simple-storage-dapp.git
    cd simple-storage-dapp
    ```
 
