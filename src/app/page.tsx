@@ -45,7 +45,7 @@ const Inner: NextPage = () => {
   const { contract, currentNumber, newNumber, isLoading, successMessage } =
     state;
 
-  const contractAddress = process.env.NEXT_PUBLIC_CONTRACT_ADDRESS as string;
+  const contractAddress = "0x736b52346ac3F4c3C806EBFe699B4e17Fe09592A";
 
   const fetchCurrentNumber = useCallback(async () => {
     if (contract) {
